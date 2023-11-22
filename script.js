@@ -33,7 +33,6 @@ function totalPerPerson() {
     }
 }
 
-
 btnReset.addEventListener('click', () => {
     valuePerPersonTotal.value = '';
     valueTipAmount.value = '';
